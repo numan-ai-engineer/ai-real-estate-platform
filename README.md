@@ -6,6 +6,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen?style=flat-square)
+
+
 An AI-powered full-stack real estate application built using MERN stack and OpenAI API.
 
 ## 🚀 Features
