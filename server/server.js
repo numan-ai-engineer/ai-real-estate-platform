@@ -69,6 +69,7 @@ res.json({message:"Property deleted"});
 } catch(error){
 
 res.status(500).json({error:error.message});
+  res.send("Backend is working");
 
 }
 
