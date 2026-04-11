@@ -9,7 +9,11 @@
 
 
 An AI-powered full-stack real estate application built using MERN stack and OpenAI API.
-
+## 🚀 Improvements
+- Enhanced UI components
+- Optimized performance
+- Improved project documentation
+- 
 ## 🚀 Features
 - User Authentication (JWT)
 - Property Listings
