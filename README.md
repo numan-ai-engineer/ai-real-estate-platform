@@ -1,11 +1,10 @@
 # 🏡 AI Real Estate Platform
-
+#   Badges
 ![GitHub repo size](https://img.shields.io/github/repo-size/numan-ai-engineer/ai-real-estate-platform)
 ![GitHub stars](https://img.shields.io/github/stars/numan-ai-engineer/ai-real-estate-platform)
 ![GitHub forks](https://img.shields.io/github/forks/numan-ai-engineer/ai-real-estate-platform)
 ![GitHub issues](https://img.shields.io/github/issues/numan-ai-engineer/ai-real-estate-platform)
 ![GitHub last commit](https://img.shields.io/github/last-commit/numan-ai-engineer/ai-real-estate-platform)
-## Badges
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
