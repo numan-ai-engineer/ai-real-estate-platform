@@ -10,11 +10,11 @@ An AI-powered real estate platform that helps users search, analyze, and underst
 
 It combines:
 
-# 🧠 Artificial Intelligence (AI)
-# 📊 Data analytics
-# 🏘️ Property search & filtering
-# ⚡ Fast API-driven backend
-# 🎨 Modern frontend UI
+ 🧠 Artificial Intelligence (AI)
+ 📊 Data analytics
+ 🏘️ Property search & filtering
+ ⚡ Fast API-driven backend
+ 🎨 Modern frontend UI
 
 The system helps users make smarter property decisions using AI insights such as price estimation, property comparison, and market trends.
 
