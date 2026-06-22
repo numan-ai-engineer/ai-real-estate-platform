@@ -3,7 +3,6 @@
 An AI-powered real estate platform that helps users search, analyze, and understand property listings using intelligent data processing and modern full-stack technologies.
 
 
-
 # 🌍 Overview
 
  The AI Real Estate Platform is a modern full-stack application designed to transform the way users explore real estate.
